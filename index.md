@@ -1,7 +1,7 @@
 ![Marc Hauschildt circa 2018](https://avatars0.githubusercontent.com/u/17356362?s=200 "Marc Hauschildt")
 
 Highly skilled Programming and Software Development Instructor with an attention to detail and strong background in client and server-side development. 
-### Experience
+## Experience
 
 **[Kirkwood Community College](https://kirkwood.edu/)** | _Web and Software Development Instructor_ | Cedar Rapids, IA | August 2020 - August 2020
 - TBD, I start this position on August 4th!
@@ -21,7 +21,7 @@ Freelance Work | 2007 - present
 - Designing, deploying, maintaining, and evolving  web-based applications for local businesses and individuals using Wordpress and Drupal content management software. 
 - Configuring back end settings using PHP and MySQL.
 
-### Education
+## Education
 **[DeltaV Code School](https://deltavcodeschool.com/)** | Certificate in Software Development | Cedar Rapids, IA | December 2017 - July 2018
 - Studied client- and server-side development, Object-Oriented Programming, JavaScript libraries and frameworks, and functional and asynchronous programming.
 - Developed and maintained a single-page architecture using Node.js and Express for the server and Postgres for the database, writing custom SQL queries.
