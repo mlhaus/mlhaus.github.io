@@ -39,4 +39,4 @@ Freelance Work | 2007 - present
 **[University of Northern Iowa](https://uni.edu/)** | Bachelor of Arts - Business Teaching | Cedar Falls, IA | August 1999 - December 2003
 - GPA: 3.16
 
-:date: Last modified April 2020
+> Last modified April 2020
