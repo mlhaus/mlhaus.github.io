@@ -1,4 +1,3 @@
-## Marc Hauschildt
 ![Marc Hauschildt circa 2018](https://avatars0.githubusercontent.com/u/17356362?s=200 "Marc Hauschildt")
 
 Highly skilled Programming and Software Development Instructor with an attention to detail and strong background in client and server-side development. 
